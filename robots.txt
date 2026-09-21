@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://adydaddy.com/sitemap.xml
+Sitemap: https://www.adydaddy.com/sitemap.xml
