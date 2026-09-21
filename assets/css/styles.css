@@ -340,6 +340,25 @@ h3 { font-size: 1.3rem; letter-spacing: -0.01em; }
 .marquee:hover .marquee-track { animation-play-state: paused; }
 @keyframes marquee { to { transform: translateX(-50%); } }
 
+/* ---------- Results proof marquee ---------- */
+.results-marquee { overflow: hidden; position: relative; margin-top: 40px; }
+.results-track { display: flex; gap: 20px; width: max-content; animation: resultsScroll 75s linear infinite; }
+.results-track:hover { animation-play-state: paused; }
+@keyframes resultsScroll { from { transform: translateX(0); } to { transform: translateX(-50%); } }
+.result-shot {
+  flex: none; height: 300px; width: auto;
+  border-radius: 12px; overflow: hidden;
+  border: 1px solid var(--line-dark);
+  background: #fff;
+}
+.result-shot img { height: 100%; width: auto; display: block; }
+@media (max-width: 720px) {
+  .result-shot { height: 220px; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .results-track { animation: none; }
+}
+
 .clients-band { padding-block: 44px; background: var(--paper); border-bottom: 1px solid var(--line); }
 .clients-band .label { text-align: center; color: var(--grey); font-size: 0.8rem; letter-spacing: 0.18em; text-transform: uppercase; margin-bottom: 26px; }
 .clients-logo { height: 36px; width: auto; object-fit: contain; filter: brightness(0) opacity(0.7); transition: filter 0.3s, transform 0.3s; }
