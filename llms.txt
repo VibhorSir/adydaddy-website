@@ -6,13 +6,13 @@ AdyDaddy is a performance marketing agency that plans, builds, and scales paid m
 
 ## Services
 
-- [Performance Marketing](https://www.adydaddy.com/services.html#performance-marketing): Paid media across Meta, Google, and YouTube, built around ROAS and payback period, not vanity clicks.
-- [SEO + AEO / GEO](https://www.adydaddy.com/services.html#seo): Technical fixes, content, and authority building aimed at compounding organic traffic and answer-engine visibility.
-- [Social Media Marketing](https://www.adydaddy.com/services.html#social): Organic content, community, and creator partnerships built to create demand, not just a posting calendar.
-- [Content & Creative](https://www.adydaddy.com/services.html#creative): Ad creative, video, and design production built to perform in-feed, not just look good in a deck.
-- [Marketing Automation & CRM](https://www.adydaddy.com/services.html#automation): Lifecycle email, SMS, and CRM flows designed to lift repeat revenue without adding ad spend.
-- [Conversion Rate Optimization](https://www.adydaddy.com/services.html#cro): Structured landing page and funnel experimentation that lifts conversion rate without more spend.
-- [Website Development & Management](https://www.adydaddy.com/services.html#web): High-converting Shopify stores and marketing sites, built and maintained by people who understand the traffic that hits them.
+- [Performance Marketing](https://www.adydaddy.com/services#performance-marketing): Paid media across Meta, Google, and YouTube, built around ROAS and payback period, not vanity clicks.
+- [SEO + AEO / GEO](https://www.adydaddy.com/services#seo): Technical fixes, content, and authority building aimed at compounding organic traffic and answer-engine visibility.
+- [Social Media Marketing](https://www.adydaddy.com/services#social): Organic content, community, and creator partnerships built to create demand, not just a posting calendar.
+- [Content & Creative](https://www.adydaddy.com/services#creative): Ad creative, video, and design production built to perform in-feed, not just look good in a deck.
+- [Marketing Automation & CRM](https://www.adydaddy.com/services#automation): Lifecycle email, SMS, and CRM flows designed to lift repeat revenue without adding ad spend.
+- [Conversion Rate Optimization](https://www.adydaddy.com/services#cro): Structured landing page and funnel experimentation that lifts conversion rate without more spend.
+- [Website Development & Management](https://www.adydaddy.com/services#web): High-converting Shopify stores and marketing sites, built and maintained by people who understand the traffic that hits them.
 
 ## Results
 
