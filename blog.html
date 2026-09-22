@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Blog | AdyDaddy - D2C Growth Guides</title>
+  <meta name="description" content="Practical, no-fluff guides on D2C performance marketing, ROAS, retention, CRO, and AI search. Written by the AdyDaddy team." />
+  <meta property="og:title" content="AdyDaddy Blog - D2C Growth Guides" />
+  <meta property="og:description" content="Practical guides on D2C performance marketing, ROAS, retention, CRO, and AI search." />
+  <meta property="og:type" content="website" />
+  <link rel="canonical" href="https://www.adydaddy.com/blog" />
+  <meta property="og:url" content="https://www.adydaddy.com/blog" />
+  <meta property="og:image" content="https://www.adydaddy.com/assets/img/og-image.jpg" />
+  <link rel="icon" type="image/png" href="assets/img/favicon.png" />
+  <link rel="stylesheet" href="assets/css/styles.css" />
+  <style>
+    .blog-hero { padding: 140px 0 56px; background: var(--paper); }
+    .blog-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 24px; padding: 0 0 72px; }
+    .post-card { background: var(--white); border: 1px solid var(--line); border-radius: var(--radius); padding: 26px; display: flex; flex-direction: column; gap: 12px; transition: transform .2s ease, box-shadow .2s ease; }
+    .post-card:hover { transform: translateY(-4px); box-shadow: 0 12px 30px rgba(10,10,10,.08); }
+    .post-cat { font-size: 0.72rem; letter-spacing: 0.12em; text-transform: uppercase; color: var(--red); font-weight: 700; }
+    .post-card h3 { font-size: 1.25rem; line-height: 1.3; }
+    .post-card h3 a { color: var(--ink); text-decoration: none; }
+    .post-card h3 a:hover { color: var(--red); }
+    .post-excerpt { color: var(--grey-dark); font-size: 0.92rem; line-height: 1.55; }
+    .post-meta { margin-top: auto; font-size: 0.78rem; color: var(--muted); display: flex; justify-content: space-between; align-items: center; }
+    @media (max-width: 860px) { .blog-grid { grid-template-columns: 1fr; } .blog-hero { padding-top: 116px; } }
+  </style>
+</head>
+<body>
+
+  <header class="site-header" id="header">
+    <div class="container header-inner">
+      <a href="/" class="brand">
+        <img src="assets/img/ad-mark.png" alt="" class="brand-mark" />
+        <span class="brand-word">AdyDaddy</span>
+      </a>
+      <nav class="nav" id="nav">
+        <a href="/" class="nav-link" data-nav="index.html">Home</a>
+        <a href="/services" class="nav-link" data-nav="services">Services</a>
+        <a href="/portfolio" class="nav-link" data-nav="portfolio">Results</a>
+        <a href="/about" class="nav-link" data-nav="about">About</a>
+        <a href="/contact" class="nav-link" data-nav="contact">Contact</a>
+        <a href="/blog" class="nav-link" data-nav="blog">Blog</a>
+        <a href="/contact" class="btn btn-primary nav-cta">Book a Call</a>
+      </nav>
+      <button class="nav-toggle" id="navToggle" aria-label="Menu" aria-expanded="false"><span></span><span></span><span></span></button>
+    </div>
+  </header>
+
+  <section class="blog-hero">
+    <div class="container">
+      <span class="eyebrow">The AdyDaddy Blog</span>
+      <h1 class="display" style="margin-top:16px;">Guides for D2C growth, <span class="accent">no fluff.</span></h1>
+      <p class="lead" style="margin-top:18px; max-width:640px;">Direct answers to the questions D2C founders actually ask: ROAS, CAC, scaling, retention, and conversion. Written from real campaigns, not theory.</p>
+    </div>
+  </section>
+
+  <section>
+    <div class="container blog-grid">
+      <article class="post-card reveal">
+        <span class="post-cat">Paid Media</span>
+        <h3><a href="/blog-roas-benchmarks">What Is a Good ROAS for D2C Brands in India?</a></h3>
+        <p class="post-excerpt">Category-wise benchmarks, why your break-even ROAS matters more than the industry average, and a simple formula to find your number.</p>
+        <div class="post-meta"><span>Vibhor Sharma</span><span>Sep 22, 2026</span></div>
+      </article>
+    </div>
+  </section>
+
+  <footer class="site-footer">
+    <div class="container">
+      <div class="footer-bottom">
+        <span>&copy; <span id="year">2026</span> AdyDaddy. All rights reserved.</span>
+        <div>
+          <a href="mailto:adydaddy81@gmail.com">adydaddy81@gmail.com</a>
+          <a href="https://www.instagram.com/adydaddyofficial" target="_blank" rel="noopener">@adydaddyofficial</a>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+  <script src="assets/js/main.js"></script>
+</body>
+</html>
