@@ -167,6 +167,9 @@
         .then(function (r) { return r.json(); })
         .then(function (res) {
           if (res && res.success) {
+            if (typeof gtag === "function") {
+              gtag("event", "generate_lead", { event_category: "form", event_label: "contact_form" });
+            }
             var success = document.getElementById("formSuccess");
             form.style.display = "none";
             if (success) success.classList.add("show");
