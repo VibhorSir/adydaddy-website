@@ -145,25 +145,40 @@
       if (!ok) return;
 
       var data = new FormData(form);
-      var email = data.get("email");
-      var subject = "Project enquiry from " + (data.get("name") || "AdyDaddy website");
-      var body =
-        "Name: " + (data.get("name") || "") + "\n" +
-        "Email: " + (data.get("email") || "") + "\n" +
-        "Phone: " + (data.get("phone") || "") + "\n" +
-        "Brand / company: " + (data.get("brand") || "") + "\n" +
-        "Monthly revenue: " + (data.get("revenue") || "") + "\n\n" +
-        (data.get("message") || "");
+      var btn = form.querySelector("button[type=submit]");
+      var originalHTML = btn ? btn.innerHTML : null;
+      if (btn) { btn.disabled = true; btn.innerHTML = "Sending..."; }
 
-      var success = document.getElementById("formSuccess");
-      form.style.display = "none";
-      if (success) success.classList.add("show");
-
-      // Open the user's mail client prefilled (harmless fallback; no backend yet).
-      try {
-        window.location.href = "mailto:adydaddy81@gmail.com?subject=" +
-          encodeURIComponent(subject) + "&body=" + encodeURIComponent(body);
-      } catch (err) { /* ignore */ }
+      fetch("https://api.web3forms.com/submit", {
+        method: "POST",
+        headers: { "Content-Type": "application/json", "Accept": "application/json" },
+        body: JSON.stringify({
+          access_key: "f83e7122-0175-45fa-a55a-af50e950c60c",
+          subject: "New enquiry from " + (data.get("name") || "AdyDaddy website"),
+          from_name: "AdyDaddy Website",
+          name: data.get("name"),
+          email: data.get("email"),
+          phone: data.get("phone"),
+          brand: data.get("brand"),
+          revenue: data.get("revenue"),
+          message: data.get("message")
+        })
+      })
+        .then(function (r) { return r.json(); })
+        .then(function (res) {
+          if (res && res.success) {
+            var success = document.getElementById("formSuccess");
+            form.style.display = "none";
+            if (success) success.classList.add("show");
+          } else {
+            throw new Error("submit failed");
+          }
+        })
+        .catch(function () {
+          if (btn) { btn.disabled = false; btn.innerHTML = originalHTML; }
+          var err = document.getElementById("formError");
+          if (err) err.classList.add("show");
+        });
     });
   }
 
