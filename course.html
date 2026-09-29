@@ -55,9 +55,38 @@
     .whatbox .wb b { display: block; font-size: 1.05rem; }
     .whatbox .wb p { color: var(--grey-dark); font-size: 0.92rem; margin-top: 8px; }
 
+    /* Course hero split (human-led image right) */
+    .course-hero-grid { display: grid; grid-template-columns: 1.1fr 0.9fr; gap: 56px; align-items: center; }
+    .course-hero-media { position: relative; }
+    .course-hero-media .frame {
+      position: relative; border-radius: var(--radius); overflow: hidden;
+      aspect-ratio: 4 / 5; border: 1px solid var(--line-dark);
+    }
+    .course-hero-media .duo { height: 100%; }
+    .course-hero-media .tag {
+      position: absolute; left: 16px; bottom: 16px; z-index: 3;
+      background: rgba(10,10,10,0.55); backdrop-filter: blur(8px);
+      color: #fff; font-size: 0.8rem; font-weight: 700; letter-spacing: 0.06em;
+      padding: 10px 16px; border-radius: 10px; border: 1px solid var(--line-dark);
+    }
+    .proof-media { margin-top: 40px; border-radius: var(--radius); overflow: hidden; border: 1px solid var(--line-dark); }
+    .proof-media .duo { aspect-ratio: 16 / 9; }
+    .proof-media img { width: 100%; height: 100%; object-fit: cover; }
+
     @media (max-width: 900px) {
       .tier-grid { grid-template-columns: 1fr; max-width: 440px; margin-inline: auto; }
-      .curriculum-grid, .whatbox { grid-template-columns: 1fr; }
+      .curriculum-grid, .whatbox, .lp-pains { grid-template-columns: 1fr; }
+      .course-hero-grid { grid-template-columns: 1fr; }
+      .course-hero-media { max-width: 420px; }
+    }
+    .lp-pains { display: grid; grid-template-columns: repeat(2, 1fr); gap: 16px; }
+    .lp-pain { background: var(--white); border: 1px solid var(--line); border-radius: var(--radius); padding: 22px 24px; }
+    .lp-pain .x { color: var(--red); font-weight: 800; font-size: 1.1rem; }
+    .lp-pain p { color: var(--grey-dark); font-size: 0.95rem; margin-top: 6px; }
+
+    @media (max-width: 900px) {
+      .tier-grid { grid-template-columns: 1fr; max-width: 440px; margin-inline: auto; }
+      .curriculum-grid, .whatbox, .lp-pains { grid-template-columns: 1fr; }
     }
   </style>
   <!-- Google tag (gtag.js) -->
@@ -102,13 +131,21 @@
 
   <!-- ============ PAGE HERO ============ -->
   <section class="page-hero">
-    <div class="container">
-      <span class="hero-badge" style="border-color:var(--line-dark); color:rgba(255,255,255,0.85);"><span class="dot"></span> A course for performance marketers</span>
-      <h1 class="display" style="margin-top:22px;">Save your job from AI, <span class="accent">using AI</span>.</h1>
-      <p class="lead" style="margin-top:22px;">AI will not replace the performance marketer. A performance marketer who uses AI well will replace the one who does not. This course makes you the first kind.</p>
-      <div class="hero-cta" style="margin-top:34px;">
-        <a href="#pricing" class="btn btn-primary">Get the Course <span class="arr">→</span></a>
-        <a href="#curriculum" class="btn btn-ghost">See What's Inside</a>
+    <div class="container course-hero-grid">
+      <div>
+        <span class="hero-badge" style="border-color:var(--line-dark); color:rgba(255,255,255,0.85);"><span class="dot"></span> A course for performance marketers</span>
+        <h1 class="display" style="margin-top:22px;">Save your job from AI, <span class="accent">using AI</span>.</h1>
+        <p class="lead" style="margin-top:22px;">AI will not replace the performance marketer. A performance marketer who uses AI well will replace the one who does not. This course makes you the first kind.</p>
+        <div class="hero-cta" style="margin-top:34px;">
+          <a href="#pricing" class="btn btn-primary">Get the Course <span class="arr">→</span></a>
+          <a href="#curriculum" class="btn btn-ghost">See What's Inside</a>
+        </div>
+      </div>
+      <div class="course-hero-media">
+        <div class="frame">
+          <div class="duo"><img src="assets/img/course-hero.jpg" alt="Performance marketer using AI" loading="eager" /></div>
+          <span class="tag">The marketer who learned to use AI</span>
+        </div>
       </div>
     </div>
   </section>
@@ -141,6 +178,9 @@
         <div class="wb reveal"><b>Generate</b><p>Hooks, copy, headlines, and reports in seconds, not days.</p></div>
         <div class="wb reveal" style="transition-delay:.06s;"><b>Judge</b><p>Pick winners, sanity-check numbers, and own the call.</p></div>
         <div class="wb reveal" style="transition-delay:.12s;"><b>Scale</b><p>Turn your best work into SOPs and agents that run on repeat.</p></div>
+      </div>
+      <div class="proof-media reveal">
+        <div class="duo"><img src="assets/img/course-work.jpg" alt="Performance marketer building an AI workflow at their desk" loading="lazy" /></div>
       </div>
     </div>
   </section>
@@ -190,7 +230,7 @@
             <li><span class="tick">✓</span><span>A 20-hook prompt bank for ad creative</span></li>
             <li><span class="tick">✓</span><span>A one-page AI glossary in plain English</span></li>
           </ul>
-          <a href="https://rzp.io/l/REPLACE_STARTER" class="btn btn-primary" data-tier="starter">Buy Starter <span class="arr">→</span></a>
+          <a href="https://rzp.io/l/REPLACE_STARTER" class="btn btn-primary" data-tier="starter" target="_blank" rel="noopener">Buy Starter <span class="arr">→</span></a>
         </div>
 
         <!-- PRO (featured) -->
@@ -206,7 +246,7 @@
             <li><span class="tick">✓</span><span>Weekly reporting template you paste exports into</span></li>
             <li><span class="tick">✓</span><span>Competitor teardown checklist</span></li>
           </ul>
-          <a href="https://rzp.io/l/REPLACE_PRO" class="btn btn-primary" data-tier="pro">Buy Pro <span class="arr">→</span></a>
+          <a href="https://rzp.io/l/REPLACE_PRO" class="btn btn-primary" data-tier="pro" target="_blank" rel="noopener">Buy Pro <span class="arr">→</span></a>
         </div>
 
         <!-- MASTER -->
@@ -222,7 +262,7 @@
             <li><span class="tick">✓</span><span>The 30-day execution plan</span></li>
             <li><span class="tick">✓</span><span>Lifetime updates as new AI tools ship</span></li>
           </ul>
-          <a href="https://rzp.io/l/REPLACE_MASTER" class="btn btn-primary" data-tier="master">Buy Master <span class="arr">→</span></a>
+          <a href="https://rzp.io/l/REPLACE_MASTER" class="btn btn-primary" data-tier="master" target="_blank" rel="noopener">Buy Master <span class="arr">→</span></a>
         </div>
       </div>
       <p class="tier-note">Secure checkout via Razorpay. Instant PDF delivery to your email.</p>
@@ -243,6 +283,9 @@
           <div class="stat-block"><div class="stat-value" data-count="94" data-suffix="%">94%</div><div class="stat-label">Client retention</div></div>
         </div>
         <p class="lead" style="margin-top:26px; font-size:0.95rem;">This is the exact system he uses to run AI-assisted campaigns, condensed into a playbook you can copy.</p>
+      </div>
+      <div class="proof-media reveal" style="margin-top:44px;">
+        <div class="duo"><img src="assets/img/course-team.jpg" alt="AdyDaddy team collaborating on performance marketing strategy" loading="lazy" /></div>
       </div>
     </div>
   </section>
