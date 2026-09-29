@@ -23,6 +23,10 @@ AdyDaddy is a performance marketing agency that plans, builds, and scales paid m
 - $50M lifetime ad spend managed
 - 20+ brands scaled
 
+## Course
+
+- [AI-Proof Marketer](https://www.adydaddy.com/course): A 3-tier PDF course for performance marketers on saving your job from AI by using AI. Starter, Pro, and Master tiers, instant delivery via Razorpay.
+
 ## Contact
 
 - Email: adydaddy81@gmail.com
