@@ -514,12 +514,16 @@ const fine=window.matchMedia('(pointer:fine)').matches;
 /* ---------- sound ---------- */
 let AC=null,soundOn=true;const sb=document.getElementById('snd');
 function ac(){if(!AC){try{AC=new (window.AudioContext||window.webkitAudioContext)();}catch(e){}}return AC;}
-function tone(f,t0,d,g,type){const a=ac();if(!a)return;const o=a.createOscillator(),v=a.createGain();o.type=type||'sine';o.frequency.value=f;v.gain.setValueAtTime(0,a.currentTime+t0);v.gain.linearRampToValueAtTime(g,a.currentTime+t0+0.005);v.gain.exponentialRampToValueAtTime(0.0001,a.currentTime+t0+d);o.connect(v).connect(a.destination);o.start(a.currentTime+t0);o.stop(a.currentTime+t0+d+0.05);}
+function tone(f,t0,d,g,type){const a=ac();if(!a)return;if(a.state!=='running'){sndHint(true);return;}const o=a.createOscillator(),v=a.createGain();o.type=type||'sine';o.frequency.value=f;v.gain.setValueAtTime(0,a.currentTime+t0);v.gain.linearRampToValueAtTime(g,a.currentTime+t0+0.005);v.gain.exponentialRampToValueAtTime(0.0001,a.currentTime+t0+d);o.connect(v).connect(a.destination);o.start(a.currentTime+t0);o.stop(a.currentTime+t0+d+0.05);}
 function noise(t0,d,g){const a=ac();if(!a)return;const b=a.createBuffer(1,a.sampleRate*d,a.sampleRate),c=b.getChannelData(0);for(let i=0;i<c.length;i++)c[i]=(Math.random()*2-1)*Math.exp(-i/(a.sampleRate*0.01));const s=a.createBufferSource(),v=a.createGain();v.gain.value=g;s.buffer=b;s.connect(v).connect(a.destination);s.start(a.currentTime+t0);}
-window.ADY_sfx={ching(){if(!soundOn)return;noise(0,.05,.25);tone(1318.5,0,.15,.12);noise(.14,.04,.18);[1760,2637,3520].forEach((f,i)=>tone(f,.15,.7-i*.15,.16/(i+1)));},chime(){if(!soundOn)return;tone(1046.5,0,.6,.08);tone(1568,.06,.5,.05);}};
+window.ADY_sfx={ching(){if(!soundOn)return;noise(0,.05,.25);tone(1318.5,0,.15,.12);noise(.14,.04,.18);[1760,2637,3520].forEach((f,i)=>tone(f,.15,.7-i*.15,.16/(i+1)));},chime(){if(!soundOn)return;tone(1046.5,0,.6,.13);tone(1568,.06,.5,.08);}};
 function sndUI(){if(!sb)return;sb.setAttribute('aria-pressed',soundOn?'true':'false');sb.setAttribute('aria-label',soundOn?'Sound on':'Sound off');const w=document.getElementById('snd-w');if(w)w.setAttribute('opacity',soundOn?'1':'0.25');}sndUI();
-function unlock(){const a=ac();if(a&&a.state!=='running'&&a.resume)a.resume();['pointerdown','keydown','touchend'].forEach(e=>window.removeEventListener(e,unlock,true));}
-if(soundOn)['pointerdown','keydown','touchend'].forEach(e=>window.addEventListener(e,unlock,true));
+const UEV=['pointerdown','pointerup','click','keydown','touchstart','touchend'];
+function sndHint(show){let h=document.getElementById('sndhint');if(show){if(h||!soundOn)return;h=document.createElement('button');h.id='sndhint';h.type='button';h.innerHTML='<span aria-hidden="true">🔊</span> Tap anywhere for sound';h.style.cssText='position:fixed;left:50%;bottom:20px;transform:translateX(-50%) translateY(20px);z-index:250;display:flex;align-items:center;gap:8px;min-height:44px;padding:0 18px;border-radius:99px;border:1px solid #3A3936;background:#111;color:#F5F2EC;font:600 14px Inter,sans-serif;box-shadow:0 12px 30px rgba(0,0,0,.35);opacity:0;transition:opacity .4s,transform .4s;cursor:pointer';document.body.appendChild(h);requestAnimationFrame(()=>{h.style.opacity='1';h.style.transform='translateX(-50%)';});}else if(h){h.style.opacity='0';setTimeout(()=>h.remove(),400);}}
+function unlock(){const a=ac();if(!a)return;try{const b=a.createBuffer(1,1,22050),s=a.createBufferSource();s.buffer=b;s.connect(a.destination);s.start(0);}catch(e){}
+ const done=()=>{if(a.state==='running'){UEV.forEach(e=>window.removeEventListener(e,unlock,true));sndHint(false);}};
+ if(a.state!=='running'&&a.resume){a.resume().then(done).catch(()=>{});}else done();}
+if(soundOn)UEV.forEach(e=>window.addEventListener(e,unlock,true));
 if(sb)sb.addEventListener('click',()=>{soundOn=!soundOn;try{localStorage.setItem('ady_snd',soundOn?'1':'0');}catch(e){}sndUI();if(soundOn){ac()&&AC.resume&&AC.resume();ADY_sfx.chime();}});
 document.querySelectorAll('.chip').forEach(c=>c.addEventListener('click',()=>ADY_sfx.chime()));
 
