@@ -1,72 +1,836 @@
-# AdyDaddy - Full Site Content
+# AdyDaddy
 
-AdyDaddy is a performance marketing agency. Marketing that's judged on revenue, not reach.
+> Performance marketing and growth agency in India. Ads, creative, websites and automation from one in-house team, judged on revenue, not reach. Tagline: "Every rupee needs a direction."
 
-## Home
+AdyDaddy (legal name: Digital Growth Lab, a proprietorship registered in Uttar Pradesh, India; GSTIN 09MYWPS0601K1ZK) helps any business that wins customers online turn ad spend into measurable results: D2C and e-commerce brands, real estate developers, hospitals and clinics, education institutes, apps and local service businesses. Every engagement starts by agreeing on one number the work will be judged on. Founded by Vibhor Sharma, who managed around $50M in lifetime ad spend across 20+ brands before starting the agency. All work (ads, creatives, Shopify and websites, automations) is done in-house. AdyDaddy is a Meta Business Partner, Google Partner and Shopify Partner.
 
-AdyDaddy plans, builds, and scales paid media, SEO, and content programs for D2C and growth-stage brands, scoping every engagement against payback, not vanity metrics.
+## Key facts
+- Founder: Vibhor Sharma (Founder, AdyDaddy)
+- Lifetime ad spend managed: about $50M; brands scaled: 20+; years in performance marketing: 4+
+- Engagement model: 3-month first engagement, then month to month; typical minimum ad spend ₹1,50,000 per month
+- Contact: vibhor@adydaddy.com, +91 97604 36442 (WhatsApp and call), Instagram @adydaddyofficial
+- Location: Baghpat, Uttar Pradesh, India; works with brands across India
 
-Key numbers: 1.8x average blended ROAS lift, 4.1x average organic traffic growth, ₹2Cr+ ad spend managed monthly, 94% client retention.
-
-How we work: Diagnose, Scope, Scale, Report.
+## Main pages
+- [Home](https://www.adydaddy.com/): The journey of one rupee, from ad to repeat customer.
+- [Services](https://www.adydaddy.com/services): Performance marketing, SEO + AEO/GEO, social media, content and creative, automation and CRM, conversion rate optimisation, website development.
+- [Industries](https://www.adydaddy.com/industries): Five-step routes for D2C, real estate, hospitals, education, apps and local businesses.
+- [Results](https://www.adydaddy.com/portfolio): Unedited dashboard screenshots: ₹7.7 Cr sales in 12 months for one D2C brand, ₹45 L in a single sale day, 11.8x Google Ads ROAS, 6.2x best Meta ad set ROAS.
+- [Leak calculator](https://www.adydaddy.com/leak-check): Free tool that estimates how much ad spend leaks each month across four leaks: wrong people, tired creatives, leaky page, no follow-up.
+- [About](https://www.adydaddy.com/about): The founder story and the four rules: revenue over reach, one number every month, testing over opinion, the second sale counts.
+- [Contact](https://www.adydaddy.com/contact): WhatsApp, call, email or enquiry form.
 
 ## Services
+- [Performance Marketing](https://www.adydaddy.com/services#s-perf): Meta, Google and YouTube ads built around ROAS and payback.
+- [SEO + AEO / GEO](https://www.adydaddy.com/services#s-seo): Technical SEO, content and visibility in AI answers (ChatGPT, Google AI Mode, Gemini, Claude, Perplexity).
+- [Social Media](https://www.adydaddy.com/services#s-social): Content systems, short-form video, creators.
+- [Content & Creative](https://www.adydaddy.com/services#s-creative): Ad creative tested like a programme, ranked by data.
+- [Automation & CRM](https://www.adydaddy.com/services#s-auto): WhatsApp, email and SMS flows for repeat revenue.
+- [Conversion Rate Optimisation](https://www.adydaddy.com/services#s-cro): Funnel audits, A/B tests, checkout fixes.
+- [Website Development](https://www.adydaddy.com/services#s-web): Shopify stores, websites and landing pages.
 
-### Performance Marketing
-We run performance marketing as a revenue function, not a media-buying checklist. Every campaign is scoped against a payback target before a single rupee is spent, structured for fast, statistically sound testing, and reviewed weekly against the number that actually matters: profitable revenue.
-Deliverables: full-funnel Meta and Google Ads management, creative testing pipeline, landing page and offer experimentation, server-side tracking and attribution, weekly reporting.
+## Blog
+- [Meta Andromeda 2.0: What Changed in October 2026 and What D2C Brands Should Do](https://www.adydaddy.com/blog-meta-andromeda-2): Meta upgraded Andromeda, the system that picks which ads each person can see, on October 28, 2026. Here is what changed and how to adjust creative, structure and budgets.
+- [ChatGPT Ads in India: How They Work and Whether Your Brand Should Test Them](https://www.adydaddy.com/blog-chatgpt-ads-india): ChatGPT ads launched in India in August 2026, with self-serve from ₹725 a day. Here is how they work, who sees them and a simple plan to test them.
+- [Google AI Mode Ads Are Live in India: What Changes for Search and PMax](https://www.adydaddy.com/blog-google-ai-mode-ads-india): Since October 28, 2026, Google shows sponsored ads inside AI Mode answers in India. Here is how they serve, what you cannot control, and how to prepare your campaigns.
+- [Agentic Commerce: How to Get Your Shopify Store Ready for AI Shopping](https://www.adydaddy.com/blog-shopify-agentic-storefronts): Shopify Agentic Storefronts put your products inside ChatGPT, Copilot, Google AI Mode and Gemini. Here is how it works and a checklist to make AI recommend your store.
+- [Anthropic's IPO: What the Claude Maker Going Public Means for Marketers](https://www.adydaddy.com/blog-anthropic-ipo-marketers): Anthropic, the company behind Claude, listed on Nasdaq on November 19, 2026 in the largest IPO on record. Here are the facts and what it means for how brands use AI.
+- [What Is a Good ROAS for D2C Brands in India?](https://www.adydaddy.com/blog-roas-benchmarks): A good ROAS for D2C brands in India is typically 2x to 4x, but your real target is your break-even ROAS. Here are category-wise benchmarks and the formula to find your number.
+- [Meta Ads vs Google Ads for D2C: Where to Spend First](https://www.adydaddy.com/blog-meta-vs-google): Meta Ads create demand, Google Ads capture it. Here is a simple framework to decide which channel to spend on first for your D2C brand.
+- [Why Your ROAS Drops When You Scale (and How to Fix It)](https://www.adydaddy.com/blog-scale-roas-drop): ROAS drops when you scale because audiences exhaust, creative fatigues, and the auction gets more competitive. Here are the real fixes.
+- [How to Lower CAC Without Cutting Your Ad Budget](https://www.adydaddy.com/blog-lower-cac): Customer acquisition cost is spend divided by customers. Lower it by lifting conversion rate, average order value, and retention, not by cutting spend.
+- [The D2C Retention Playbook: Turn One-Time Buyers Into Repeat Revenue](https://www.adydaddy.com/blog-d2c-retention): Retention is the cheapest revenue in D2C. Here are the essential email and SMS flows, subscription tactics, and the metrics that matter.
+- [10 Checkout Leaks Killing Your Conversion Rate](https://www.adydaddy.com/blog-checkout-leaks): Every rupee of ads is wasted if your checkout leaks. Here are the 10 most common conversion killers and how to fix each one.
+- [A Creative Testing Framework That Beats Ad Fatigue](https://www.adydaddy.com/blog-creative-testing): Stop guessing with random creative. Here is a structured framework to test hooks, angles, and formats systematically.
+- [How to Get Your D2C Brand Cited by AI Search Engines](https://www.adydaddy.com/blog-aeo-geo): AI search engines cite content that directly answers questions. Here is how to structure your site so ChatGPT, Perplexity, and Google AI Overviews cite you.
 
-### SEO + AEO / GEO
-SEO only works as a compounding asset if it's treated as one. We start with a technical foundation audit, build a content architecture around real search demand and AI-answer-engine visibility, and back it with a link and authority plan that survives algorithm updates.
-Deliverables: technical SEO audit and fix roadmap, keyword and topic cluster strategy, on-page and content optimization, AI Overviews / GEO visibility, authority and digital PR link building.
+# Full articles
 
-### Social Media Marketing
-Organic social is where brand demand gets created before paid media ever captures it. We build content systems, not one-off posts, across the platforms your audience actually spends time on, and pair them with creator and community strategy.
-Deliverables: platform strategy and content pillars, short-form video production, community management, creator and influencer partnerships, monthly reporting.
+---
 
-### Content & Creative
-Creative is the biggest lever in paid media performance, so we run it in-house and iterate on it like a testing program: hooks, formats, and angles are ranked by actual click-through and conversion data, not internal opinion.
-Deliverables: static and video ad creative, UGC-style content direction, brand identity and design systems, landing page design, creative performance tracking.
+# Meta Andromeda 2.0: What Changed in October 2026 and What D2C Brands Should Do
+URL: https://www.adydaddy.com/blog-meta-andromeda-2
 
-### Marketing Automation & CRM
-The highest-margin revenue in most businesses comes from customers who already trust you. We build lifecycle email, SMS, and CRM automation that turns first purchases into repeat ones: segmented, tested, and reported against retained revenue, not open rates alone.
-Deliverables: lifecycle email and SMS flow builds, CRM segmentation and scoring, campaign calendar and execution, retention and LTV reporting.
+Short answer: "Andromeda 2.0" is the next generation of Meta's ad retrieval system, announced on October 28, 2026. It now scores every eligible ad for each person instead of only a shortlist, runs much faster, and uses richer signals. You do not need to switch anything on. What you do need is more genuinely different creative concepts, simpler campaign structure and steady budgets.
 
-### Conversion Rate Optimization
-The fastest way to grow profitably is often to fix the funnel you already have. We run structured CRO: heuristic audits, session recordings, and prioritized A/B tests, so every extra visitor converts at a higher rate.
-Deliverables: funnel and heuristic audits, A/B and multivariate testing, landing page rebuilds, checkout and form optimization.
+Most founders noticed something in their Meta accounts over the last few weeks: learning felt quicker, but results jumped around more than usual. A big reason is that Meta quietly rebuilt the first step of how it chooses ads. This guide explains that step in plain language and lists what we are changing in our own client accounts.
 
-### Website Development & Management
-Your store is where paid traffic either converts or dies. We design, build, and manage high-converting Shopify stores and marketing sites, then keep improving them with the same CRO discipline we apply to your ads.
-Deliverables: Shopify store design and build, landing page development, theme customization and speed optimization, ongoing maintenance, conversion-focused redesigns.
+## What Andromeda actually does
 
-## Results
+Before Meta runs an auction for a person scrolling Instagram or Facebook, it first has to decide which ads are even worth considering. That first filter is called retrieval, and Andromeda is the system that does it. Ranking and the auction come after. If your ad does not make it through retrieval, it never gets a chance to win, however good your bid is.
 
-Founder track record: $50M lifetime ad spend managed, 20+ brands scaled, 12K+ customers in retention engine, 3 affiliate verticals cracked.
+The original Andromeda launched in 2024. The October 2026 version is a big upgrade to that same step, which is why marketers started calling it Andromeda 2.0.
 
-Brands worked with: Joules by Radhika, Prisho, Nidhika Shekhar, Varoin Marwah, House of Ksara, Seeaash, Nouria Design, Ambrosia India, The Dramebaaz Co, Tahvo India, Nautanky India, Aakriti by Nandita, Bajaao, Austin Bazaar, Urban Hive, myTVS, Sitarah, Araq by Arwa, Negra Elegante, and more.
+## What changed in the October 2026 update
 
-## About
+- Every eligible ad gets scored. The 2024 version searched only the most promising branches of the ad pool. The new one scores all eligible ads for each person.
 
-AdyDaddy was started by Vibhor Sharma, a performance marketer who scaled multiple D2C brands before opening the agency. The team plans, builds, and scales paid media, SEO, and content programs for D2C and growth-stage brands, scoping every engagement against payback.
+- Specialist models instead of one generalist. Meta now uses a "mixture of experts": several specialised models, with a router choosing the most relevant ones for each ad.
 
-## Frequently asked questions
+- Much faster and cheaper to run. Meta says it can score over a billion ads per second on a single GPU server, around 100 times faster than before.
 
-What kinds of brands do you work with? Mostly D2C and growth-stage e-commerce brands doing ₹10L to ₹5Cr/month in revenue, though we also take on select B2B and app-based clients where performance marketing is a core growth lever.
+- Richer signals. It now reads the sequence of ads a person engaged with, cohort-level patterns, meaning extracted from ad content by language models, and engagement across Meta's apps.
 
-Do you require long-term contracts? We work on a 3-month initial engagement so there's enough runway to test and show results, then move to month-to-month. No long lock-ins beyond that.
+- Generative retrieval feeds it. A system that describes the ideal ad for a person and then finds the closest real ads lifted conversions by nearly 2% in targeted segments on Facebook Feed in Q3 2026.
 
-How is reporting handled? You get a live dashboard plus a written weekly summary and a monthly strategy call, always tied to revenue and payback, not just platform metrics.
+Meta's headline number is about 2.4% more conversions on Facebook since 2025. That is an average across all advertisers. It is a real gain, but it is not the kind of jump that should double or halve your ROAS overnight.
 
-Can you work alongside our in-house marketing team? Yes, we regularly work as an extension of in-house teams, either owning specific channels or acting as a strategic layer on top of execution you already have.
+## What this means for your ads
 
-What does working with you cost? We work on a monthly retainer plus a performance component tied to results, sized to your growth stage and scope.
+### 1. Creative variety now matters more than creative volume
 
-How quickly can we get started? Most engagements kick off within one to two weeks once we've aligned on scope and you've granted account access.
+Because the system compares more of your ads for every person, ten near-identical versions of the same video do not give it ten options. They give it one idea, ten times. Different hooks, formats, faces, angles and offers give the system real choices to match to different people. Meta's guidance is up to ten creative assets per ad.
 
-## Contact
+In practice, we now brief creatives as concepts first, variations second: a problem-led UGC video, a founder-to-camera story, a product demo, a static comparison and an offer-led carousel, rather than one video in five colours.
 
-Email: adydaddy81@gmail.com
-Phone: +91 97604 36442
-Instagram: @adydaddyofficial
-Website: https://www.adydaddy.com
+### 2. Fewer, bigger ad sets
+
+Splitting the same budget across many small ad sets cuts each one's data. Aim for ad sets that can get roughly 50 conversions a week. For most Indian D2C brands that means consolidating, not adding more audiences.
+
+### 3. Calm budget changes
+
+Small budget edits are unlikely to restart learning. Big jumps can. Scale in steps and give each step a few days. Also remember Meta can spend up to 75% above your daily budget on some days, while staying within a weekly cap, so judge pacing by the week, not by one day.
+
+### 4. Clean signals still decide quality
+
+A smarter retrieval system is only as good as the purchase data it learns from. If your Conversions API is missing or duplicating purchases, the system optimises towards noise. Fix tracking before you blame the algorithm.
+
+## What we are doing in client accounts
+
+- Auditing every account for creative similarity, and pausing near-duplicates.
+
+- Rebuilding the weekly creative pipeline around 4 to 6 distinct concepts.
+
+- Merging fragmented ad sets until each can reach about 50 results a week.
+
+- Checking Meta Conversions API match quality and deduplication.
+
+- Reading results weekly, not daily, so normal pacing swings do not trigger panic edits.
+
+Not sure whether your account is set up for this? Our leak calculator shows where money is most likely slipping between the ad and the sale.
+
+## FAQ
+
+### Is Andromeda 2.0 an official Meta name?
+No. Meta calls it the next generation of Meta Andromeda. "Andromeda 2.0" is the label marketers started using after Meta's October 28, 2026 engineering post.
+
+### Do I need to change any setting in Ads Manager?
+No. There is no toggle and no migration. The change runs automatically for every advertiser.
+
+### Why did my ROAS change after the update?
+Meta reports small average gains, so a big swing in one account is more likely caused by learning resets, creative fatigue, budget pacing, seasonality or a change in the metric you are watching.
+
+### How many creatives should one ad have now?
+Meta's guidance is up to ten creative assets per ad. What matters more is that each one is a genuinely different concept, not a copy with a new colour.
+
+## Sources
+
+- Segwise: Meta Andromeda 2.0, what Meta changed
+- ContentGrip: Andromeda now scores over 1 billion ads per second
+- PPC Land: Meta says Andromeda lifted Facebook conversions 2.4% since 2025
+
+---
+
+# ChatGPT Ads in India: How They Work and Whether Your Brand Should Test Them
+URL: https://www.adydaddy.com/blog-chatgpt-ads-india
+
+Short answer: ChatGPT ads launched in India on August 27, 2026, and self-serve buying through ChatGPT Ads Manager is open with a minimum of ₹725 a day. Ads show to logged-in adults on the Free and Go plans, appear as labelled cards separate from the answer, and do not change what ChatGPT says. For most brands, it is worth a small, structured test funded from your experiment budget, not money taken from proven Meta or Google campaigns.
+
+For years, performance marketing in India has meant two big platforms: Meta for demand, Google for intent. ChatGPT adds a third kind of moment: people asking an assistant to help them decide. Someone typing "best running shoes under ₹5,000 for flat feet" is often closer to buying than someone scrolling Reels.
+
+## How ChatGPT ads work
+
+- Who sees them: logged-in adults on the Free and Go tiers. Paid plans such as Plus, Pro, Business, Enterprise and Education remain ad-free.
+
+- Where they appear: as labelled sponsored cards below or beside the answer, not inside it. On Google, paid results sit above organic ones; on ChatGPT, the answer comes first.
+
+- How they are matched: ads are chosen using the context of the conversation, but advertisers never see the conversation itself.
+
+- What you get back: aggregate performance data. No chats, histories, memories or personal details.
+
+- What is excluded: sensitive categories such as health, mental health and politics.
+
+## How big is it?
+
+OpenAI says ChatGPT Ads crossed a $1 billion annualised revenue run rate in under 200 days and is used by tens of thousands of advertisers. In India, WPP and Omnicom were the first agency partners, and more than 50 brands were set to go live in the launch week. OpenAI also says weekly active users in India have doubled year on year.
+
+## Should your brand test it?
+
+Test it if most of these are true:
+
+- People research your category before buying: comparisons, "best for", "which one should I choose" questions.
+
+- You already have Meta and Google working profitably, so a test will not starve your core channels.
+
+- You have a clear landing page and tracking that can show what happens after the click.
+
+Wait if you are not yet profitable on Meta or Google, or if your category falls into an excluded one.
+
+## A simple first test
+
+- Pick one product and one question. Choose the product people most often compare, and the decision question it answers.
+
+- Write the ad like an answer. Lead with who it is for and why, not a slogan. The person is in research mode.
+
+- Send traffic to a focused page. A comparison or "why this one" page converts better than a homepage.
+
+- Run 3 to 4 weeks at a fixed budget. Start near the minimum, then compare cost per purchase or lead against your Meta and Google numbers.
+
+- Judge on payback, not clicks. A new channel is only useful if the rupees come back.
+
+## Do not forget the free side
+
+Ads are only one way to show up in ChatGPT. Being the brand the answer itself recommends is the organic version, and it compounds. Read our guide on getting your brand cited by AI search engines.
+
+## FAQ
+
+### What is the minimum budget for ChatGPT ads in India?
+The self-serve Ads Manager lists a minimum of ₹725 per day per campaign in India.
+
+### Who sees ChatGPT ads?
+Logged-in adult users on the Free and Go plans. Plus, Pro, Business, Enterprise and Education plans stay ad-free.
+
+### Do advertisers get access to user chats?
+No. OpenAI says advertisers get aggregate performance data only, not chats, history, memories or personal details.
+
+### Can I pay to appear inside ChatGPT's answer?
+No. Ads are labelled and appear separately from the answer, and OpenAI says ads do not influence responses.
+
+### Which categories cannot advertise?
+Sensitive categories such as health, mental health and politics are excluded.
+
+## Sources
+
+- OpenAI: Expanding access to AI with ChatGPT ads
+- exchange4media: OpenAI rolls out ChatGPT Ads in India
+- Inc42: OpenAI rolls out ChatGPT Ads in India
+- TechCrunch: OpenAI to show ads on ChatGPT free and Go tiers in India
+
+---
+
+# Google AI Mode Ads Are Live in India: What Changes for Search and PMax
+URL: https://www.adydaddy.com/blog-google-ai-mode-ads-india
+
+Short answer: On October 28, 2026, Google expanded ads in AI Mode to India and nine other countries. Ads appear within or alongside AI Mode answers for commercial searches, labelled "Sponsored". They serve from your existing Search, Shopping and Performance Max campaigns, with no separate opt-out and no AI Mode breakdown in reporting. The way to prepare is better feeds, broader intent coverage and landing pages that answer questions.
+
+AI Mode is the chat-style search inside Google. People ask longer, more specific questions and get a written answer instead of ten blue links. Until now, India saw ads in AI Overviews, the summaries above normal results. Now ads can show inside the conversational AI Mode answers too.
+
+## What Google announced
+
+- Ads in AI Mode expanded to Australia, Canada, India, Kenya, Malaysia, New Zealand, Nigeria, Pakistan, the Philippines and Singapore.
+
+- Brazil, Mexico and the UK are planned next, in Q4 2026.
+
+- Multi-turn ads, which show on follow-up questions, launched in the US only.
+
+- All ads are clearly labelled "Sponsored".
+
+## What you can and cannot control
+
+ | Area | Status in India | What it means
+
+ | Campaign type | Existing Search, Shopping, PMax | No new setup. Your current campaigns are already eligible.
+
+ | Opt-out | None | You cannot exclude AI Mode placements on their own.
+
+ | Reporting | No separate breakdown | Watch overall cost per conversion and search terms instead.
+
+ | Language | English only for ads | Hindi and regional AI Mode queries will not show these ads yet.
+
+ | Follow-up ads | US only | Ads show on the first answer, not on follow-ups, for now.
+
+## How to prepare your campaigns
+
+### 1. Treat your product feed like ad copy
+
+AI Mode answers are built around product details. Titles, descriptions, sizes, materials, prices and reviews in your Merchant Center feed decide whether your product fits the answer. Rewrite titles to say what the product is and who it is for, fill every attribute, and keep prices and stock accurate.
+
+### 2. Cover longer, question-style intent
+
+People ask AI Mode things like "lightweight laptop bag for women that fits 15 inch, under ₹3,000". Broad match with strong conversion signals, plus PMax with good asset groups, tends to catch these better than tight exact-match lists.
+
+### 3. Make landing pages answer the question
+
+When someone clicks from an AI answer, they expect the page to continue that answer. Put the key facts at the top: who it is for, price, delivery, returns and proof.
+
+### 4. Watch search terms and blended numbers weekly
+
+Since AI Mode is not reported separately, look for new long, conversational search terms and shifts in cost per conversion. If both move together, AI Mode is likely the cause.
+
+## The organic side matters just as much
+
+The same answers that now carry ads also cite websites for free. Brands with clear, structured, answer-first pages get quoted. That is what AEO and GEO are about, and why we write every page on our own site with a short answer up top. More in our AEO and GEO guide.
+
+## FAQ
+
+### Do I need a new campaign type for AI Mode ads?
+No. Ads in AI Mode serve from existing Search, Shopping and Performance Max campaigns.
+
+### Can I opt out of AI Mode placements in India?
+There is no separate opt-out for AI Mode placements.
+
+### Can I see how my ads perform in AI Mode specifically?
+Not separately. AI Mode results are not broken out in reporting, so judge the change through your overall campaign numbers.
+
+### Are multi-turn ads available in India?
+Not yet. Ads on follow-up questions launched in the US only.
+
+### Which language do AI Mode ads use?
+Google lists English as the only language for these ads for now, even though AI Mode in India answers in Hindi and several other Indian languages.
+
+## Sources
+
+- Google Ads & Commerce Blog: Ads in AI Mode expand globally
+- YourStory: AI Search ads arrive in India
+- PPC Land: Advertisers in 10 more countries cannot opt out of AI Mode ads
+- eCorpIT: Ads in AI Mode India playbook
+
+---
+
+# Agentic Commerce: How to Get Your Shopify Store Ready for AI Shopping
+URL: https://www.adydaddy.com/blog-shopify-agentic-storefronts
+
+Short answer: AI assistants are becoming a new front door for shopping. Shopify's Agentic Storefronts channel connects your catalogue to ChatGPT, Microsoft Copilot, AI Mode in Google Search and the Gemini app from one place in Shopify Admin. Orders come back to Shopify with attribution, and you keep the customer. Whether AI actually recommends you depends on clean product data, real reviews and clear policies.
+
+Ask ChatGPT for "a gift for my sister who loves skincare, under ₹2,000" and it will suggest specific products. The question for every store owner is simple: will one of them be yours?
+
+## How Agentic Storefronts work
+
+- List once, show everywhere. Shopify structures your product, pricing, inventory and brand data, and shares it with partner AI platforms through Shopify Catalog.
+
+- Managed in one place. Agentic Storefronts is a sales channel in Shopify Admin, so you control it like any other channel.
+
+- Checkout on your store. For ChatGPT, buyers discover products in the chat and typically finish buying on your own storefront, inside the ChatGPT app's browser on mobile or a new tab on desktop.
+
+- You keep the customer. Orders show in Shopify Admin with ChatGPT referral attribution, and you remain the merchant of record.
+
+## Why AI picks one product over another
+
+An assistant cannot "see" your beautiful banner. It reads data. When it compares products, it leans on what it can verify: specific attributes, prices, stock, reviews and policies. Vague listings lose to clear ones.
+
+## The readiness checklist
+
+### Product data
+
+- Titles that say what the product is, not a collection name. "Cotton A-line kurta, navy, sizes XS to 3XL" beats "Monsoon Muse 07".
+
+- Every attribute filled: material, size chart, dimensions, care, colour, fit.
+
+- Descriptions that answer the questions buyers ask: who it suits, what it pairs with, how it compares.
+
+- Accurate price and stock, synced in real time.
+
+### Trust signals
+
+- Real reviews with ratings on product pages.
+
+- Clear shipping times, COD availability, return and exchange policy in plain words.
+
+- A proper About page and contact details, so the brand looks real to both people and machines.
+
+### Your site
+
+- Fast mobile pages. Buyers from AI chats land inside an in-app browser on a phone.
+
+- Structured data (product schema) on product pages.
+
+- FAQ sections written as direct answers, which AI systems can quote.
+
+## How to track it
+
+Add AI referrals to your weekly report: orders with ChatGPT attribution in Shopify, plus traffic from chatgpt.com, copilot and gemini in GA4. Start small, watch which products get picked, and improve the listings of the ones that do not.
+
+This sits right next to our checkout leaks guide: AI can send the buyer, but your store still has to close the sale.
+
+## FAQ
+
+### What is agentic commerce?
+It is shopping where an AI assistant helps the buyer discover, compare and buy products inside a conversation, instead of the buyer searching and clicking through sites alone.
+
+### What are Shopify Agentic Storefronts?
+A sales channel in Shopify Admin that connects your products to AI platforms such as ChatGPT, Microsoft Copilot, AI Mode in Google Search and the Gemini app, managed from one place.
+
+### Do I lose the customer if they buy through ChatGPT?
+No. Shopify says merchants remain the merchant of record, keep the customer relationship and data, and see ChatGPT referral attribution on orders.
+
+### Where does checkout happen for ChatGPT shoppers?
+Buyers discover products in ChatGPT and usually complete the purchase on your own store, through an in-app browser on mobile or a new tab on desktop.
+
+## Sources
+
+- Shopify: Millions of merchants can sell in AI chats
+- Shopify: How agentic commerce works
+- Digital Commerce 360: Shopify integration with ChatGPT changes
+- The Paypers: Shopify launches Agentic Storefronts across major AI platforms
+
+---
+
+# Anthropic's IPO: What the Claude Maker Going Public Means for Marketers
+URL: https://www.adydaddy.com/blog-anthropic-ipo-marketers
+
+Short answer: Anthropic, the maker of the Claude AI models, priced its IPO at $83 a share on November 18, 2026 and began trading on Nasdaq as ANT the next day. It raised about $81.3 billion, the largest IPO on record, opened at $111.50 and closed its first day at $97.17. For marketers, the takeaway is not the stock. It is that AI models are now mainstream business infrastructure, so AI belongs inside your everyday marketing workflow.
+
+This is not investment advice, and we have no view on the share price. We are writing about it because a lot of founders asked us the same question this week: does this change anything for my marketing? Here is the short version, with the facts first.
+
+## The facts
+
+ | Item | Detail
+
+ | IPO price | $83 per share, set on November 18, 2026, above the earlier $70 to $78 range
+
+ | Listing | Nasdaq, ticker ANT, first trade on November 19, 2026
+
+ | Size | About 980 million shares, roughly $81.3 billion raised
+
+ | Day one | Opened at $111.50 (about 34% above the IPO price), closed at $97.17
+
+ | Valuation | Around $1.5 trillion at the IPO price
+
+ | Record | Largest IPO on record, ahead of SpaceX's June 2026 listing
+
+Anthropic is also the first frontier AI lab to trade publicly. Its rival OpenAI has said it will not list in 2026.
+
+## Why this matters to brands
+
+### 1. AI is now infrastructure, not an experiment
+
+When a company that builds AI models becomes one of the most valuable listed businesses in the world, the signal to every boardroom is clear. AI is moving from side project to core tooling. The brands that win will be the ones that build it into daily work: research, creative, analysis and customer service.
+
+### 2. Capable models keep getting cheaper to use
+
+Model makers are competing hard on price. Reports around Anthropic's November model launches pointed to lower prices for its newest models compared with the previous generation. For marketers, that makes it realistic to use AI for things that used to be too expensive, such as writing and testing dozens of ad angles a week, or summarising every customer review you have ever received.
+
+### 3. Your brand needs to be readable by AI
+
+Assistants like Claude, ChatGPT and Gemini are increasingly where people ask "which brand should I buy?" If your website is vague, these assistants will either skip you or describe you wrongly. Clear, factual, answer-first pages are now a marketing asset.
+
+## Three things to do this month
+
+- Put AI in your creative pipeline. Use it to generate hook and angle ideas from real customer language, then test the best ones as ads. With Meta's new Andromeda rewarding distinct creative concepts, this matters more than ever. Read what changed in Andromeda 2.0.
+
+- Ask the assistants about yourself. Ask Claude, ChatGPT and Gemini what they know about your brand and your category. Fix what they get wrong on your own site first.
+
+- Make one page per buyer question. Short answer on top, details below, FAQ at the end. That is the format AI systems quote. Our AEO and GEO guide shows how.
+
+## FAQ
+
+### When did Anthropic go public?
+Anthropic priced its IPO on November 18, 2026 and began trading on Nasdaq on November 19, 2026 under the ticker ANT.
+
+### How big was the Anthropic IPO?
+About $81.3 billion was raised from roughly 980 million shares at $83 each, the largest IPO on record, ahead of SpaceX's June 2026 listing.
+
+### How did the stock do on day one?
+It opened at $111.50, about 34% above the IPO price, and closed its first day at $97.17.
+
+### What should a marketer do about it?
+Nothing urgent with the stock. The useful takeaway is that AI models are now core business infrastructure, so it is worth building AI into your creative, research and reporting workflows, and making sure AI assistants can find and describe your brand correctly.
+
+## Sources
+
+- TechRepublic: Anthropic opens at $111.50 in record Nasdaq debut
+- Benzinga: Anthropic stock opens at $111.50
+- Neoteo: Anthropic offer price, opening trade and first-day close
+- AP via ADN: Anthropic begins trading in the biggest IPO on record
+
+---
+
+# What Is a Good ROAS for D2C Brands in India?
+URL: https://www.adydaddy.com/blog-roas-benchmarks
+
+Short answer: A good ROAS for D2C brands in India is typically 2x to 4x. But the honest answer is that the only ROAS that matters is your break-even ROAS, which depends on your margins, not on any industry average. A brand with 40% gross margin needs at least 2.5x to break even; anything above that is profit.
+
+    Almost every founder asks this question, and almost everyone gets the wrong answer. They chase a number they read in a report, and end up either cutting a profitable campaign or scaling a loss-making one. This guide fixes that with the formula, real category benchmarks, and what actually moves the number.
+
+## First, forget "good." Calculate your break-even ROAS.
+
+    ROAS (return on ad spend) means nothing in isolation. A 5x ROAS can lose money, and a 1.8x ROAS can be highly profitable, depending on your margins. The number that decides whether your ads are working is your break-even ROAS:
+
+    Break-even ROAS = 1 ÷ gross margin
+
+    If your gross margin is 40% (after product cost, shipping, and packaging), then:
+
+    1 ÷ 0.40 = 2.5x break-even ROAS
+
+    That means every rupee of ad spend needs to return 2.5 rupees of revenue just to cover your costs. At 2.5x you break even; at 3x you profit; at 2x you lose money on every order.
+
+### Why margin changes everything
+
+       | Gross margin | Break-even ROAS | What it means
+
+       | 60% (high margin, e.g. beauty) | 1.67x | Profitable even at low ROAS
+
+       | 40% (typical apparel) | 2.5x | Need 2.5x to break even
+
+       | 30% (electronics, low margin) | 3.33x | Need 3.3x to break even
+
+       | 20% (commodity products) | 5x | Very hard to scale on ads alone
+
+## Category-wise ROAS benchmarks in India
+
+    These are the ranges we typically see across client accounts, not universal truths. Treat them as a rough compass, then compare against your own break-even.
+
+       | Category | Typical ROAS range | Notes
+
+       | Beauty & personal care | 2.5x - 4x | High margins, strong repeat purchase
+
+       | Fashion & apparel | 2x - 3.5x | Return rates drag effective ROAS
+
+       | Health & supplements | 2x - 3.5x | Subscription potential lifts LTV
+
+       | Electronics & accessories | 2.5x - 4x | Higher AOV, thinner margins
+
+       | Home & lifestyle | 2x - 3x | Longer consideration, retargeting heavy
+
+       | Jewellery | 1.5x - 3x | Very high AOV, low order volume
+
+## What actually moves your ROAS
+
+    When ROAS is below break-even, founders usually reach for one lever: cut the budget or kill the campaign. Those are reactions, not strategy. The levers that genuinely move ROAS, in order of impact:
+
+### 1. Creative volume and freshness
+
+    Creative is the single biggest driver of ROAS variance. A fresh, well-hooked ad can beat a tired one by 2x to 3x. If your ROAS is dropping, the first question is almost always "when did we last launch a new angle?"
+
+### 2. Conversion rate, not just clicks
+
+    ROAS is revenue divided by spend, and revenue is traffic multiplied by conversion rate multiplied by AOV. A checkout that converts at 1% versus 2.5% doubles your ROAS with zero extra ad spend. Fix the funnel before you scale the top.
+
+### 3. Offer and landing page alignment
+
+    If your ad promises something the landing page does not deliver, the click is wasted. A small offer tweak (free shipping threshold, bundle pricing) can move ROAS 20% to 40% without touching creative.
+
+### 4. Retention and LTV
+
+    ROAS measures first-purchase return. If your first purchase loses money but the customer buys three more times, a "bad" ROAS can be a great business. Blended ROAS, which includes repeat revenue, is what actually matters at scale.
+
+## Blended ROAS is the number that scales
+
+    Blended ROAS includes revenue from returning customers, not just first purchase. A brand with 30% repeat revenue can sustain a lower first-purchase ROAS and still grow profitably. This is why retention is not a "later" problem, it is a ROAS problem in disguise.
+
+## The formula to find your own target
+
+    Write these three numbers down: your gross margin, your AOV, and your repeat purchase rate. Then:
+
+    1. Calculate break-even ROAS (1 ÷ margin).
+    2. Set your floor at break-even, your target at break-even plus 30% to 50%.
+    3. Re-evaluate monthly, because margins and AOV move.
+
+    That is your "good" ROAS. Not a benchmark from a report, but a number you can defend and scale against.
+
+    Want someone to audit your ROAS, margins, and funnel and tell you exactly where the leak is? Book a free strategy call.
+
+---
+
+# Meta Ads vs Google Ads for D2C: Where to Spend First
+URL: https://www.adydaddy.com/blog-meta-vs-google
+
+Short answer: If people already search for your category, start with Google Ads (demand capture). If you sell something people do not know they need, start with Meta Ads (demand creation). Most D2C brands eventually need both, but the order matters.
+
+    The "Meta vs Google" debate is usually framed wrong. They are not competing channels; they solve different problems. One captures demand that already exists, the other creates demand that did not. Understanding that distinction is the whole answer.
+
+## Demand capture vs demand creation
+
+    Google Ads (Search and Shopping) captures intent. Someone types "best running shoes for flat feet" and Google shows your product. The demand is already there; you are paying to be the one who catches it. Conversion rates are high because the person is already looking to buy.
+
+    Meta Ads (Facebook and Instagram) create demand. Nobody opens Instagram looking for your product. You interrupt their scroll, stop them with a hook, and build enough desire that they click and buy. The demand is created from nothing, so conversion rates are lower, but the ceiling is much higher.
+
+## When to start with Google Ads
+
+    Start with Google when your category has existing search volume. Obvious cases: products people actively look for (supplements, electronics, replacement parts, category-specific queries). If people type your product type into Google every day, you can capture that demand on day one without educating anyone.
+
+    Google is also the safer first bet when your margins are thin, because you are paying for clicks that already have intent, so efficiency comes faster.
+
+## When to start with Meta Ads
+
+    Start with Meta when you sell something people do not know exists, or something driven by visual appeal and impulse. New categories, fashion, gifting, novelty products, and anything where a scroll-stopping video is the best salesman. Meta is also the channel that scales creative, so if you have strong video assets, it can compound fast.
+
+## How to split budget as you scale
+
+       | Stage | Google | Meta | Why
+
+       | Launch | 60-70% | 30-40% | Capture existing demand first, prove efficiency
+
+       | Growth | 40-50% | 50-60% | Meta creates new demand as Google plateaus
+
+       | Scale | 30-40% | 60-70% | Meta is where the ceiling is; Google defends the base
+
+    These are starting points, not rules. The real answer always comes from your numbers: follow the channel that returns above your break-even ROAS, and rebalance monthly.
+
+## The mistake most brands make
+
+    They treat both channels as interchangeable and split budget 50/50 from day one. That dilutes learning. Pick a primary channel based on intent, prove it works, then layer the second one on top. One channel done well beats two done badly.
+
+    Want someone to audit your funnel and tell you exactly where the leak is? Book a free strategy call.
+
+---
+
+# Why Your ROAS Drops When You Scale (and How to Fix It)
+URL: https://www.adydaddy.com/blog-scale-roas-drop
+
+Short answer: ROAS drops when you scale because you exhaust your warmest audiences, your creative fatigues, and the auction forces you to pay more to reach colder prospects. The fix is not less budget; it is more creative volume, broader audiences, and better offers.
+
+    This is the most common panic moment in D2C. A brand finds a winning campaign at 3x ROAS, doubles the budget, and watches it fall to 2x within a week. They assume the campaign is broken and kill it. The campaign was not broken; it just hit the three walls every scaling brand hits.
+
+## 1. Audience exhaustion
+
+    At a small budget, the algorithm spends on the easiest, warmest people first: past visitors, engaged followers, lookalikes of your best buyers. As you scale, you exhaust that pool and the algorithm has to reach colder, less predictable people. Cost per purchase rises because the easy wins are gone.
+
+    The fix is not to fight it; it is to widen the top of the funnel so there are more warm people to begin with. More creative reach, more content, and broader targeting feed the machine.
+
+## 2. Creative fatigue
+
+    Every ad has a frequency limit. After someone sees the same creative three or four times, they stop noticing it, and performance decays. At scale, you burn through creative faster because you are reaching more people more often.
+
+    The fix is a steady pipeline of fresh creative, not one-off bursts. Brands that sustain scale have a testing cadence that launches new angles every week.
+
+## 3. Auction dynamics
+
+    When you raise budget, you bid higher and against more competitors for the same inventory. The marginal cost of each additional conversion goes up. This is structural and unavoidable; it is why every scaling curve bends.
+
+## How to fix it: the four levers
+
+### Creative volume
+
+    The single biggest lever. Fresh creative with new hooks and angles is the cheapest way to buy efficiency back. One strong new ad can offset weeks of fatigue.
+
+### Broader audiences
+
+    Stop micro-targeting. Broad targeting plus strong creative lets the algorithm find new pockets of buyers you did not know existed.
+
+### Better offers
+
+    A sharper offer (bundle, discount structure, free shipping threshold) lifts conversion and resets the efficiency curve at a higher level.
+
+### Conversion rate and retention
+
+    If the top of funnel gets more expensive, make the bottom more efficient. A checkout that converts 2% instead of 1% doubles the return from the same spend. And repeat purchases mean a first-purchase ROAS that looks "bad" is actually profitable blended.
+
+    The brands that scale profitably accept that ROAS will bend, and build the infrastructure (creative, offers, CRO, retention) that bends it back up.
+
+    Want someone to audit your funnel and tell you exactly where the leak is? Book a free strategy call.
+
+---
+
+# How to Lower CAC Without Cutting Your Ad Budget
+URL: https://www.adydaddy.com/blog-lower-cac
+
+Short answer: CAC = ad spend ÷ new customers. You lower it by lifting conversion rate, average order value, and retention, not by cutting budget. Cutting spend shrinks the business; improving these three grows it.
+
+    When CAC climbs, the reflex is to cut ad spend. That usually makes things worse: less spend means less data, weaker optimization, and a smaller business. The brands that lower CAC sustainably do it by making the same traffic worth more.
+
+## 1. Lift conversion rate (CVR)
+
+    This is the highest-leverage move. If 2% of visitors buy instead of 1%, you have just halved your CAC with zero extra spend. CVR is a funnel problem: page speed, offer clarity, trust signals, and a checkout without friction.
+
+### Where to look first
+
+    Check your add-to-cart to purchase ratio. If lots of people add to cart but few finish, the problem is the checkout (hidden costs, forced account creation, slow load). If few add to cart at all, the problem is the landing page (weak offer, unclear value, no social proof).
+
+## 2. Lift average order value (AOV)
+
+    If each customer spends more, the cost to acquire them is spread over more revenue. Bundles, free-shipping thresholds, and post-purchase upsells all raise AOV without raising ad spend.
+
+### Quick AOV levers
+
+    A free-shipping threshold just above your AOV (for example, "free shipping over ₹999" when AOV is ₹800) nudges people to add one more item. Bundles and "buy 2, get X" offers do the same.
+
+## 3. Extend lifetime value (LTV)
+
+    CAC only looks expensive when you measure first purchase. If a customer you paid ₹500 to acquire buys four times, the effective CAC is ₹125 per order. Retention is the quiet CAC killer.
+
+### What moves LTV
+
+    Post-purchase email and SMS flows, subscription offers for consumables, and a reorder reminder for products with a natural repurchase cycle. These cost almost nothing and compound.
+
+## The CAC formula in one line
+
+    Write it down: CAC = spend ÷ (clicks × CVR × AOV × repeat rate). Spend and clicks are the expensive levers. CVR, AOV, and repeat rate are the cheap ones. Most brands can cut CAC 30% to 50% by fixing the cheap levers before touching spend.
+
+    Want someone to audit your funnel and tell you exactly where the leak is? Book a free strategy call.
+
+---
+
+# The D2C Retention Playbook: Turn One-Time Buyers Into Repeat Revenue
+URL: https://www.adydaddy.com/blog-d2c-retention
+
+Short answer: Retention is the cheapest revenue in D2C because it costs almost nothing compared to acquiring a new customer. The levers are post-purchase flows, subscriptions for consumables, and loyalty programs, all measured by repeat rate and LTV.
+
+    Most D2C brands spend 80% of their attention on acquisition and 20% on retention, when the economics point the other way. It costs 5x to 7x more to acquire a new customer than to keep an existing one. If your first purchase is break-even, retention is the entire profit margin.
+
+## The essential flows
+
+    Flows are automated email and SMS sequences that run on their own. Set them up once and they work every day. The ones that matter most:
+
+### Post-purchase
+
+    The window right after a purchase is when a customer is most engaged and most likely to buy again. A thank-you email, usage tips, and a carefully timed cross-sell (not an immediate upsell) lift repeat purchases measurably.
+
+### Replenishment reminders
+
+    For products with a natural repurchase cycle (skincare, supplements, coffee), send a reminder when the product is likely running out. This is the single highest-ROI flow in D2C because it hits at the exact moment of need.
+
+### Winback
+
+    Customers who have not ordered in 60 or 90 days are cheaper to reactivate than strangers are to acquire. A simple "we miss you" email with a small incentive recovers a meaningful slice of churned revenue.
+
+## Subscriptions for consumables
+
+    If your product is consumed and repurchased, a subscription is the strongest retention mechanism that exists. It converts a one-time buyer into predictable monthly revenue, and it multiplies LTV by the number of cycles the customer stays. The key is making the value clear (convenience plus a discount) rather than hiding it as an afterthought.
+
+## Loyalty that actually works
+
+    A loyalty program only works if it is simple and the reward feels reachable. Points for purchases, a birthday gift, and early access to launches are enough for most D2C brands. The mistake is building a complex points system nobody understands. Keep it to two or three clear benefits.
+
+## The metrics that matter
+
+       | Metric | What it tells you
+
+       | Repeat purchase rate | Share of customers who buy again; the core retention number
+
+       | Time between orders | How fast customers repurchase; sets your reminder timing
+
+       | LTV:CAC ratio | Whether a customer is worth more than it cost to acquire; aim for 3x or higher
+
+       | Churn rate | Share of subscribers or customers leaving; the number to minimize
+
+    Retention is not a "later" problem. It is the difference between a business that leaks money on every acquisition and one that compounds. Start with the flows; they are the cheapest revenue you will ever build.
+
+    Want someone to audit your funnel and tell you exactly where the leak is? Book a free strategy call.
+
+---
+
+# 10 Checkout Leaks Killing Your Conversion Rate
+URL: https://www.adydaddy.com/blog-checkout-leaks
+
+Short answer: The 10 most common checkout leaks are hidden costs, forced account creation, slow load times, limited payment options, weak trust signals, no guest checkout, confusing shipping info, no support access, poor mobile experience, and a long form. Each one costs you a measurable share of the traffic you already paid for.
+
+    Before you spend another rupee on ads, fix the funnel. Every leak below is a customer who was ready to buy and got stopped. Plugging them raises conversion rate, which lowers CAC and lifts ROAS with zero extra spend.
+
+## 1. Hidden costs that appear at the end
+
+    Shipping and taxes revealed only at the final step are the number one cause of checkout abandonment. Show the full cost early, or build shipping into the price.
+
+## 2. Forced account creation
+
+    Forcing signup before purchase kills conversions. Always offer guest checkout, and let account creation happen naturally after the order.
+
+## 3. Slow page load
+
+    Every second of delay drops conversion. A checkout that loads in five seconds instead of two can lose a quarter of buyers. Compress images and cut heavy scripts.
+
+## 4. Limited payment options
+
+    If you sell in India and do not offer UPI, you are leaking. Offer UPI, cards, wallets, and COD where relevant, and make the preferred method the default.
+
+## 5. Weak trust signals
+
+    No reviews, no return policy, no secure-checkout badge. Buyers need reassurance at the exact moment they hand over money. Show reviews and a clear return policy near the button.
+
+## 6. No express checkout
+
+    Saved-payment options like Shop Pay or a stored card cut the checkout to one tap. The fewer steps between desire and purchase, the higher the conversion.
+
+## 7. Confusing shipping and delivery info
+
+    Vague delivery dates or unclear shipping costs create doubt. State delivery time and cost in plain language before the customer commits.
+
+## 8. No way to get help
+
+    A live chat or WhatsApp button at checkout reassures hesitant buyers. The presence of support converts, even if most people never use it.
+
+## 9. Broken mobile experience
+
+    Most D2C traffic is mobile. A checkout with tiny fields, zooming issues, or a misaligned button on mobile is leaking every single day.
+
+## 10. A form that asks too much
+
+    Ask only what is needed to deliver the order. Every extra field is a reason to abandon. Name, address, phone, and payment is enough for most orders.
+
+    Audit your checkout against this list once. The fixes are mostly quick, and the payback is immediate: the traffic you already bought converts higher.
+
+    Want someone to audit your funnel and tell you exactly where the leak is? Book a free strategy call.
+
+---
+
+# A Creative Testing Framework That Beats Ad Fatigue
+URL: https://www.adydaddy.com/blog-creative-testing
+
+Short answer: Beat ad fatigue by testing systematically, not randomly. Test one variable at a time, keep a fixed structure (hooks, angles, formats), and launch new creative on a weekly cadence. Consistency beats volume.
+
+    Most brands approach creative like a lottery: they make a few ads, hope one wins, and panic when it dies. That is why ad fatigue hits so hard. The fix is a testing framework that treats creative as a pipeline, not a one-off bet.
+
+## The three creative variables
+
+    Every ad is a combination of three variables. Understand them separately before you test them together.
+
+### Hooks
+
+    The first three seconds that stop the scroll. A hook is the single highest-leverage element in an ad. Test hooks aggressively: a problem hook, a curiosity hook, a bold claim, a founder story.
+
+### Angles
+
+    The core message or reason to buy. Price, quality, social proof, convenience, exclusivity. An angle is the "why" behind the hook.
+
+### Formats
+
+    The packaging: static image, short video, UGC-style, carousel, founder-to-camera. Formats change performance, but a bad hook in a good format still fails.
+
+## A simple framework that works
+
+    Use the 3-2-2 method as a starting point:
+
+       | Step | What you do
+
+       | 3 hooks | Launch three different hooks with the same angle and format
+
+       | 2 angles | Take the winning hook and test two angles under it
+
+       | 2 formats | Take the winning hook and angle, test two formats
+
+    This isolates one variable at a time, so you learn what actually drove the win instead of guessing. Then you feed the winner back into the next round.
+
+## What to measure
+
+    Do not judge an ad by likes or comments. Judge by the funnel: thumb-stop rate (hook quality), click-through rate (relevance), and conversion rate (offer and landing page). Each metric points to a different lever to fix.
+
+## The cadence that beats fatigue
+
+    Launch new creative weekly, not monthly. You do not need a production team; you need a system. Repurpose one winning angle into new hooks, and a handful of UGC clips can become a month of ads. The brands that sustain scale are the ones that never stop the pipeline.
+
+    Want someone to audit your funnel and tell you exactly where the leak is? Book a free strategy call.
+
+---
+
+# How to Get Your D2C Brand Cited by AI Search Engines
+URL: https://www.adydaddy.com/blog-aeo-geo
+
+Short answer: AI search engines cite content that directly answers questions with clear, authoritative, structured information. To get cited, publish direct-answer content, add structured data, provide an llms.txt, and earn citations from authoritative sources.
+
+    Search is shifting from ten blue links to direct answers. When someone asks ChatGPT or Perplexity "what is a good ROAS for D2C in India," the engine pulls from sources it trusts. Answer Engine Optimization (AEO) and Generative Engine Optimization (GEO) are how you become that source.
+
+## 1. Publish direct answers, not essays
+
+    AI engines reward content that states the answer immediately, then explains. Put a clear "short answer" up top, then support it. Structure with headings that match real questions. This is the single biggest lever, and it is also good for humans.
+
+## 2. Use structured data
+
+    Schema markup (Article, FAQPage, Organization, Person) tells machines what your content is about in a language they parse perfectly. FAQPage schema in particular helps your answers surface in AI Overviews and answer boxes.
+
+## 3. Provide an llms.txt
+
+    An llms.txt file gives AI crawlers a clean, machine-readable summary of your site: what you do, your key pages, and your content. It is the AEO equivalent of a sitemap, and it makes it easy for engines to understand and cite you.
+
+## 4. Be the original source
+
+    AI engines prefer the original, authoritative source over a copy. Publish real data, real benchmarks, and real case studies that others then cite. When other sites and forums link to you as the reference, the engines follow.
+
+## 5. Cover the long tail of questions
+
+    The questions people ask AI are specific: "why does my ROAS drop when I scale," "how to lower CAC without cutting budget." Publishing content that answers these exact questions, one per page, is how you get picked up for a wide range of queries.
+
+## What to do first
+
+    Start with your FAQ pages and your highest-intent questions. Make every answer direct and citable. Add the schema. Ship an llms.txt. Then publish one direct-answer article at a time. GEO compounds slowly, but the sources that win are the ones that answered clearly, first.
+
+    Want someone to audit your funnel and tell you exactly where the leak is? Book a free strategy call.

@@ -6,21 +6,27 @@ A standalone multi-page site with no build step, no dependencies. Open `index.ht
 
 ## Structure
 
-- `index.html` — Home
-- `services.html` — Services (7 disciplines)
-- `portfolio.html` — Results
-- `about.html` — About
-- `contact.html` — Contact
-- `assets/css/styles.css` — all styling
-- `assets/js/main.js` — interactions
-- `assets/img/` — logo, client + stack logos, generated imagery
-- `assets/fonts/` — self-hosted Satoshi variable font
+- `index.html` Home (cinematic intro, the journey of one rupee)
+- `services.html` Services (7 disciplines, live "control room")
+- `industries.html` Industries (route per industry)
+- `portfolio.html` Results (receipts and proof wall)
+- `leak-check.html` Ad spend leak calculator
+- `about.html` About (founder story)
+- `contact.html` Contact (Web3Forms enquiry form)
+- `landing.html` Ads landing page (noindex)
+- `blog.html` and `blog-*.html` Blog (13 articles, linked from footer only)
+- `privacy.html`, `terms.html` Legal
+- `course.html`, `refund.html` Redirect to home (course discontinued)
+- `img/` Founder photo, result screenshots, favicons, share image
+- `js/` Self-hosted three.js r128 and Lenis
+- `llms.txt`, `llms-full.txt`, `sitemap.xml`, `robots.txt` Search and AI discovery
+- `assets/` Legacy files from the previous design, kept for old references
 
 ## Brand
 
-- Type: Satoshi (self-hosted), Roboto fallback
-- Palette: brand red `#E63946`, ink `#0A0A0A`, warm paper `#FAFAF7`
-- Logo: red "AD" monogram + "AdyDaddy" wordmark
+- Type: Space Grotesk (300/500/700) and Inter
+- Palette: black `#111111`, orange `#FF5A1F`, cream `#F5F2EC`, greys `#4A4743` and `#BDB8AF`
+- Logo: faceted north star with a hidden A, wordmark "ady" light + "daddy" bold
 - No em dashes or en dashes anywhere in copy
 
 ## Run locally
@@ -34,6 +40,6 @@ python3 -m http.server 8000
 
 Drop the folder onto any static host: Netlify, Vercel, GitHub Pages, Cloudflare Pages, or AWS Amplify. No build step required.
 
-## Contact form
+## Forms
 
-The form currently uses a `mailto:` fallback. To capture submissions in production, wire it to Web3Forms, Formspree, or a Google Sheets Apps Script webhook (edit the submit handler in `assets/js/main.js`).
+All forms (contact, landing, leak calculator) post to Web3Forms and fire a GA4 `generate_lead` event. GA4 property: G-Z9T2VV0LWQ.

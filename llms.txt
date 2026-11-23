@@ -1,38 +1,45 @@
 # AdyDaddy
 
-> Marketing that's judged on revenue, not reach.
+> Performance marketing and growth agency in India. Ads, creative, websites and automation from one in-house team, judged on revenue, not reach. Tagline: "Every rupee needs a direction."
 
-AdyDaddy is a performance marketing agency that plans, builds, and scales paid media, SEO, and content programs for D2C and growth-stage brands, scoping every engagement against payback, not vanity metrics.
+AdyDaddy (legal name: Digital Growth Lab, a proprietorship registered in Uttar Pradesh, India; GSTIN 09MYWPS0601K1ZK) helps any business that wins customers online turn ad spend into measurable results: D2C and e-commerce brands, real estate developers, hospitals and clinics, education institutes, apps and local service businesses. Every engagement starts by agreeing on one number the work will be judged on. Founded by Vibhor Sharma, who managed around $50M in lifetime ad spend across 20+ brands before starting the agency. All work (ads, creatives, Shopify and websites, automations) is done in-house. AdyDaddy is a Meta Business Partner, Google Partner and Shopify Partner.
+
+## Key facts
+- Founder: Vibhor Sharma (Founder, AdyDaddy)
+- Lifetime ad spend managed: about $50M; brands scaled: 20+; years in performance marketing: 4+
+- Engagement model: 3-month first engagement, then month to month; typical minimum ad spend ₹1,50,000 per month
+- Contact: vibhor@adydaddy.com, +91 97604 36442 (WhatsApp and call), Instagram @adydaddyofficial
+- Location: Baghpat, Uttar Pradesh, India; works with brands across India
+
+## Main pages
+- [Home](https://www.adydaddy.com/): The journey of one rupee, from ad to repeat customer.
+- [Services](https://www.adydaddy.com/services): Performance marketing, SEO + AEO/GEO, social media, content and creative, automation and CRM, conversion rate optimisation, website development.
+- [Industries](https://www.adydaddy.com/industries): Five-step routes for D2C, real estate, hospitals, education, apps and local businesses.
+- [Results](https://www.adydaddy.com/portfolio): Unedited dashboard screenshots: ₹7.7 Cr sales in 12 months for one D2C brand, ₹45 L in a single sale day, 11.8x Google Ads ROAS, 6.2x best Meta ad set ROAS.
+- [Leak calculator](https://www.adydaddy.com/leak-check): Free tool that estimates how much ad spend leaks each month across four leaks: wrong people, tired creatives, leaky page, no follow-up.
+- [About](https://www.adydaddy.com/about): The founder story and the four rules: revenue over reach, one number every month, testing over opinion, the second sale counts.
+- [Contact](https://www.adydaddy.com/contact): WhatsApp, call, email or enquiry form.
 
 ## Services
+- [Performance Marketing](https://www.adydaddy.com/services#s-perf): Meta, Google and YouTube ads built around ROAS and payback.
+- [SEO + AEO / GEO](https://www.adydaddy.com/services#s-seo): Technical SEO, content and visibility in AI answers (ChatGPT, Google AI Mode, Gemini, Claude, Perplexity).
+- [Social Media](https://www.adydaddy.com/services#s-social): Content systems, short-form video, creators.
+- [Content & Creative](https://www.adydaddy.com/services#s-creative): Ad creative tested like a programme, ranked by data.
+- [Automation & CRM](https://www.adydaddy.com/services#s-auto): WhatsApp, email and SMS flows for repeat revenue.
+- [Conversion Rate Optimisation](https://www.adydaddy.com/services#s-cro): Funnel audits, A/B tests, checkout fixes.
+- [Website Development](https://www.adydaddy.com/services#s-web): Shopify stores, websites and landing pages.
 
-- [Performance Marketing](https://www.adydaddy.com/services#performance-marketing): Paid media across Meta, Google, and YouTube, built around ROAS and payback period, not vanity clicks.
-- [SEO + AEO / GEO](https://www.adydaddy.com/services#seo): Technical fixes, content, and authority building aimed at compounding organic traffic and answer-engine visibility.
-- [Social Media Marketing](https://www.adydaddy.com/services#social): Organic content, community, and creator partnerships built to create demand, not just a posting calendar.
-- [Content & Creative](https://www.adydaddy.com/services#creative): Ad creative, video, and design production built to perform in-feed, not just look good in a deck.
-- [Marketing Automation & CRM](https://www.adydaddy.com/services#automation): Lifecycle email, SMS, and CRM flows designed to lift repeat revenue without adding ad spend.
-- [Conversion Rate Optimization](https://www.adydaddy.com/services#cro): Structured landing page and funnel experimentation that lifts conversion rate without more spend.
-- [Website Development & Management](https://www.adydaddy.com/services#web): High-converting Shopify stores and marketing sites, built and maintained by people who understand the traffic that hits them.
-
-## Results
-
-- 1.8x average blended ROAS lift
-- 4.1x average organic traffic growth
-- ₹2Cr+ ad spend managed monthly
-- 94% client retention
-- $50M lifetime ad spend managed
-- 20+ brands scaled
-
-## Course
-
-- [AI-Proof Marketer](https://www.adydaddy.com/course): A 3-tier PDF course for performance marketers on saving your job from AI by using AI. Starter, Pro, and Master tiers, instant delivery via Razorpay.
-
-## Contact
-
-- Email: adydaddy81@gmail.com
-- Phone: +91 97604 36442
-- Instagram: [@adydaddyofficial](https://www.instagram.com/adydaddyofficial)
-
-## Founder
-
-Vibhor Sharma, founder of AdyDaddy.
+## Blog
+- [Meta Andromeda 2.0: What Changed in October 2026 and What D2C Brands Should Do](https://www.adydaddy.com/blog-meta-andromeda-2): Meta upgraded Andromeda, the system that picks which ads each person can see, on October 28, 2026. Here is what changed and how to adjust creative, structure and budgets.
+- [ChatGPT Ads in India: How They Work and Whether Your Brand Should Test Them](https://www.adydaddy.com/blog-chatgpt-ads-india): ChatGPT ads launched in India in August 2026, with self-serve from ₹725 a day. Here is how they work, who sees them and a simple plan to test them.
+- [Google AI Mode Ads Are Live in India: What Changes for Search and PMax](https://www.adydaddy.com/blog-google-ai-mode-ads-india): Since October 28, 2026, Google shows sponsored ads inside AI Mode answers in India. Here is how they serve, what you cannot control, and how to prepare your campaigns.
+- [Agentic Commerce: How to Get Your Shopify Store Ready for AI Shopping](https://www.adydaddy.com/blog-shopify-agentic-storefronts): Shopify Agentic Storefronts put your products inside ChatGPT, Copilot, Google AI Mode and Gemini. Here is how it works and a checklist to make AI recommend your store.
+- [Anthropic's IPO: What the Claude Maker Going Public Means for Marketers](https://www.adydaddy.com/blog-anthropic-ipo-marketers): Anthropic, the company behind Claude, listed on Nasdaq on November 19, 2026 in the largest IPO on record. Here are the facts and what it means for how brands use AI.
+- [What Is a Good ROAS for D2C Brands in India?](https://www.adydaddy.com/blog-roas-benchmarks): A good ROAS for D2C brands in India is typically 2x to 4x, but your real target is your break-even ROAS. Here are category-wise benchmarks and the formula to find your number.
+- [Meta Ads vs Google Ads for D2C: Where to Spend First](https://www.adydaddy.com/blog-meta-vs-google): Meta Ads create demand, Google Ads capture it. Here is a simple framework to decide which channel to spend on first for your D2C brand.
+- [Why Your ROAS Drops When You Scale (and How to Fix It)](https://www.adydaddy.com/blog-scale-roas-drop): ROAS drops when you scale because audiences exhaust, creative fatigues, and the auction gets more competitive. Here are the real fixes.
+- [How to Lower CAC Without Cutting Your Ad Budget](https://www.adydaddy.com/blog-lower-cac): Customer acquisition cost is spend divided by customers. Lower it by lifting conversion rate, average order value, and retention, not by cutting spend.
+- [The D2C Retention Playbook: Turn One-Time Buyers Into Repeat Revenue](https://www.adydaddy.com/blog-d2c-retention): Retention is the cheapest revenue in D2C. Here are the essential email and SMS flows, subscription tactics, and the metrics that matter.
+- [10 Checkout Leaks Killing Your Conversion Rate](https://www.adydaddy.com/blog-checkout-leaks): Every rupee of ads is wasted if your checkout leaks. Here are the 10 most common conversion killers and how to fix each one.
+- [A Creative Testing Framework That Beats Ad Fatigue](https://www.adydaddy.com/blog-creative-testing): Stop guessing with random creative. Here is a structured framework to test hooks, angles, and formats systematically.
+- [How to Get Your D2C Brand Cited by AI Search Engines](https://www.adydaddy.com/blog-aeo-geo): AI search engines cite content that directly answers questions. Here is how to structure your site so ChatGPT, Perplexity, and Google AI Overviews cite you.
