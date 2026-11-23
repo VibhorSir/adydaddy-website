@@ -293,6 +293,14 @@ html.lenis,html.lenis body{height:auto}.lenis.lenis-smooth{scroll-behavior:auto!
 .rdx::after{content:"";position:absolute;inset:0;background:linear-gradient(100deg,transparent 30%,rgba(245,242,236,.35) 50%,transparent 70%);background-size:250% 100%;animation:rds 2.6s linear infinite}
 @keyframes rds{from{background-position:150% 0}to{background-position:-100% 0}}
 @media (prefers-reduced-motion: reduce){.labdot,.rdx::after{animation:none}}
+
+@media (min-width:901px){
+#hero{min-height:max(500px,calc(100vh - 91px))!important;min-height:max(500px,calc(100svh - 91px))!important;align-items:center!important}
+#hero>div[style*="max-width: 1240px"]{padding-top:clamp(40px,7vh,110px)!important;padding-bottom:clamp(40px,7vh,96px)!important;gap:clamp(16px,2.6vh,26px)!important}
+#htitle{font-size:clamp(48px,min(7vw,11.5vh),112px)!important}
+#hero>div[style*="max-width: 1240px"] p{font-size:clamp(17px,min(1.6vw,2.3vh),21px)!important}
+#hstar{top:clamp(40px,10vh,120px)!important;width:clamp(130px,min(16vw,28vh),230px)!important;height:clamp(130px,min(16vw,28vh),230px)!important}
+}
 </style>
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-Z9T2VV0LWQ"></script><script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-Z9T2VV0LWQ');</script>
 <link rel="icon" href="/img/favicon.svg" type="image/svg+xml">
