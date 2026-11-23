@@ -173,7 +173,7 @@ html.lenis,html.lenis body{height:auto}.lenis.lenis-smooth{scroll-behavior:auto!
 
 #journey{background:#F5F2EC;color:#111;position:relative}
 .jscroll{height:620vh;position:relative}
-.jsticky{position:sticky;top:0;height:100vh;display:flex;flex-direction:column;box-sizing:border-box;padding:84px 24px 28px;max-width:1240px;margin:0 auto;gap:20px}
+.jsticky{position:sticky;top:0;height:100vh;height:100svh;display:flex;flex-direction:column;box-sizing:border-box;padding:84px 24px 28px;max-width:1240px;margin:0 auto;gap:20px}
 .jwrap{flex:1;min-height:0;display:grid;grid-template-columns:minmax(0,.95fr) minmax(0,1.05fr);gap:40px;align-items:center}
 .jtext{display:flex;flex-direction:column;gap:22px}
 .jeye{margin:0;display:flex;align-items:center;gap:10px;font-size:15px;font-weight:600;letter-spacing:1.5px;text-transform:uppercase;color:#4A4743}
@@ -273,6 +273,8 @@ html.lenis,html.lenis body{height:auto}.lenis.lenis-smooth{scroll-behavior:auto!
 .jtrow{font-size:12px}.jtid{display:none}
 .jnode b{display:none}.jbar{margin:6px 6px 4px}
 }
+@media (max-width:900px){.jsticky{padding-bottom:max(14px,env(safe-area-inset-bottom))}.jbox{min-height:0}}
+@media (max-width:900px) and (max-height:640px){.jsticky{padding-top:58px;gap:6px}.jcap h3{font-size:24px;margin-bottom:4px}.jcap p{font-size:14px;line-height:1.4}.jcaps{min-height:112px}.jn{font-size:13px;margin-bottom:3px}.jcta{min-height:38px;font-size:14px}.jtrack{padding:8px 12px 10px}}
 @media (min-width:1360px){.jsticky{padding-left:72px}}
 @media (max-height:760px) and (min-width:901px){.jsticky{padding-top:72px}.jcap h3{font-size:44px}.jcaps{min-height:210px}.jh2{font-size:26px}}
 @media (prefers-reduced-motion: reduce){.jscroll{height:auto}.jsticky{position:static;height:auto;padding:96px 24px}.jwrap{display:block}.jbox{display:none}.jcaps{min-height:0}.jcap{position:static;opacity:1;transform:none;margin-bottom:28px}.jcta{opacity:1;transform:none;pointer-events:auto}}
