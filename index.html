@@ -144,6 +144,32 @@ html.lenis,html.lenis body{height:auto}.lenis.lenis-smooth{scroll-behavior:auto!
 @media (min-width:901px) and (max-width:1180px){#leaks .leak-cards>div span{font-size:15px}#leaks .leak-cards>div span:nth-child(2){font-size:19px!important}}
 @media (max-height:700px) and (min-width:901px){#leaks .leak-cards>div span:nth-child(3){display:none}}
 #rail{display:none!important}@media (min-width:1360px){#rail{display:flex!important}}
+/* leak section fit fix */
+.scrolly .sticky{padding:clamp(14px,4vh,40px) 0!important}
+.scrolly .sticky>div{gap:clamp(14px,3.2vh,44px)!important;transform-origin:50% 50%}
+#leaks .fix{max-height:none!important}
+@media (min-width:901px){
+#leaks h2{font-size:clamp(30px,min(4.2vw,6.6vh),56px)!important}
+#leaks .sticky p[style*="font-size: 19px"]{font-size:clamp(15px,2.3vh,19px)!important}
+.pipe-wrap{height:clamp(120px,23vh,230px)!important}
+#leaks .leak-cards>div{display:grid!important;grid-template-columns:minmax(0,1fr);align-content:start;row-gap:10px!important;padding:clamp(14px,2.4vh,24px) 18px!important}
+#leaks .leak-cards>div>span:nth-child(3),#leaks .leak-cards>div>.fix{grid-row:3;grid-column:1;display:block!important;transition:opacity .4s ease}
+#leaks .leak-cards>div>.fix{opacity:0;font-size:15px}
+#leaks .leak-cards>div.fixed>.fix{opacity:1}
+#leaks .leak-cards>div.fixed>span:nth-child(3){opacity:0}
+}
+@media (max-width:900px){
+#leaks .leak-cards{display:grid!important;grid-template-columns:1fr 1fr;gap:10px!important}
+#leaks .leak-cards>div{padding:14px 14px!important;gap:4px!important;border-radius:14px!important;flex:none!important}
+#leaks .leak-cards>div>span:nth-child(1){font-size:12px!important}
+#leaks .leak-cards>div>span:nth-child(2){font-size:17px!important;letter-spacing:-.3px!important}
+#leaks .leak-cards>div>span:nth-child(3),#leaks .leak-cards>div>.fix{display:none!important}
+.pipe-wrap{height:clamp(130px,20vh,190px)!important}
+#leaks h2{font-size:clamp(28px,4.4vh,40px)!important}
+#leaks .sticky p[style*="font-size: 19px"]{font-size:clamp(15px,2.2vh,18px)!important}
+.leak-cap{font-size:15px!important;padding:12px 14px!important;min-height:0!important}
+}
+
 
 #journey{background:#F5F2EC;color:#111;position:relative}
 .jscroll{height:620vh;position:relative}
@@ -813,6 +839,11 @@ const tr=Math.min(1,p*1.2);$('jfill').style.width=(tr*100)+'%';$('jdot').style.l
 if(reduce){render(.8,0);return;}
 (function loop(t){if(vis)render(prog(),t);requestAnimationFrame(loop);})(performance.now());
 })();
+
+/* fit leak sticky content to viewport */
+(function(){const st=document.querySelector('#leaks .sticky'),inn=st&&st.firstElementChild;if(!inn)return;
+function fit(){inn.style.transform='';const cs=getComputedStyle(st);const avail=st.clientHeight-parseFloat(cs.paddingTop)-parseFloat(cs.paddingBottom);const h=inn.getBoundingClientRect().height;const k=Math.min(1,avail/h);if(k<0.995)inn.style.transform='scale('+k.toFixed(3)+')';}
+fit();addEventListener('resize',fit);addEventListener('load',fit);document.fonts&&document.fonts.ready.then(fit);setTimeout(fit,600);})();
 /* ---------- pipeline ---------- */
 const pc=document.getElementById('pipe');if(pc){const x=pc.getContext('2d'),DPR=Math.min(2,window.devicePixelRatio||1);let W,H;const sz=()=>{W=pc.clientWidth;H=pc.clientHeight;pc.width=W*DPR;pc.height=H*DPR;x.setTransform(DPR,0,0,DPR,0,0);};sz();window.addEventListener('resize',sz);
 const parts=[],holes=[.24,.42,.6,.78];let plug=0;const sec=document.getElementById('leaks'),fill=document.getElementById('meter-fill');
