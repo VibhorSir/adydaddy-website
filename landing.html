@@ -96,7 +96,7 @@ a{color:inherit}img{max-width:100%;display:block}
 </style>
 <script>
 /* ===== Tracking IDs: fill these in when ready ===== */
-window.ADY_TRACK={ga4:'G-Z9T2VV0LWQ',metaPixel:'',googleAds:'',googleAdsLeadLabel:''};
+window.ADY_TRACK={ga4:'G-Z9T2VV0LWQ',metaPixel:'',googleAds:'',googleAdsLeadLabel:''};window.ADY_SHEET=window.ADY_SHEET||'';
 </script>
 </head>
 <body>
@@ -198,6 +198,7 @@ f.addEventListener('submit',function(e){e.preventDefault();var d={name:F('name')
  var e2=estimate(),payload=Object.assign({access_key:'f83e7122-0175-45fa-a55a-af50e950c60c',from_name:'AdyDaddy Landing',subject:'New leak audit lead: '+d.name+(d.brand?' ('+d.brand+')':''),
   name:d.name,phone:d.phone,brand:d.brand||'-',industry:IND[S.ind]?IND[S.ind].label:'-',monthly_ad_spend:S.spendLabel||'-',biggest_problem:S.pain||'-',leak_estimate:fmt(e2.lo)+' to '+fmt(e2.hi)+' / month'},A);
  var wa='https://wa.me/'+WA+'?text='+encodeURIComponent(waText(d));document.getElementById('okwa').href=wa;
+ if(window.ADY_SHEET){try{fetch(window.ADY_SHEET,{method:'POST',mode:'no-cors',keepalive:true,headers:{'Content-Type':'text/plain;charset=utf-8'},body:JSON.stringify(Object.assign({},A,{form:'landing_quiz',page:location.pathname,name:d.name,phone:d.phone,brand:d.brand,industry:payload.industry,spend:payload.monthly_ad_spend,message:payload.biggest_problem,leak_estimate:payload.leak_estimate}))}).catch(function(){});}catch(x){}}
  fetch('https://api.web3forms.com/submit',{method:'POST',headers:{'Content-Type':'application/json',Accept:'application/json'},body:JSON.stringify(payload)})
  .then(function(r){return r.json();}).then(function(r){if(!r||!r.success)throw 0;})
  .then(function(){ev('generate_lead',{event_category:'landing',event_label:S.ind,value:1,currency:'INR'});fb('Lead',{content_category:S.ind});
